@@ -1,0 +1,7 @@
+.boton :hover{
+    color: white;
+    font-weight: bold;
+}
+.link{
+    text-decoration: none!important;
+}
